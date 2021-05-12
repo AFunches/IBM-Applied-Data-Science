@@ -1,4 +1,4 @@
-# IBM-Applied-Data-Science-Capstone
+# IBM Applied Data Science
 **Building basic programs with data**<br/>
 Most courses have bitesized projects including cancer detection, predicting economic trends, predicting customer churn, recommendation engines, building a dashboard to visualize US Economic Data, and more.
 
