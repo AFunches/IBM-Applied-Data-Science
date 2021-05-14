@@ -20,6 +20,5 @@ You will learn about location data and different location data providers, such a
 * Databases and SQL for Data Science with Python <br/>
 * Data Analysis with Python <br/>
 * Data Visualization with Python <br/>
-* IBM Data Analyst Capstone Project <br/>
 * Machine Learning with Python  <br/>
 * Applied Data Science Capstone <br/>
