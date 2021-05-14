@@ -4,7 +4,7 @@ Most courses have bitesized projects including cancer detection, predicting econ
 
 The program consists of 10 online courses that will provide you with the latest job-ready tools and skills, including open source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, predictive modeling, and machine learning algorithms. You’ll learn data science through hands-on practice in the IBM Cloud using real data science tools and real-world data sets.  <br/>
 
-Tools: Jupyter / JupyterLab, GitHub, R Studio, and Watson Studio <br/>
+Tools: Jupyter / JupyterLab, GitHub, R Studio, SQL, and Watson Studio <br/>
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc. <br/>
 Projects: random album generator, predict housing prices, best classifier model, battle of neighborhoods <br/>
 
